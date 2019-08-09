@@ -1,2 +1,5 @@
 # hello-world
-I am just trying to train here
+
+Hi, hooman.
+
+I like tacos and mcFlurry.
